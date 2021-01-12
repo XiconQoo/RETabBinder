@@ -9,3 +9,5 @@ All credits go to [AcidWeb](https://www.curseforge.com/members/acidweb/projects)
 ## What it does
 
 RETabBinder will automatically change your TAB key binding to only target enemy players when in PvP zones, and to target all enemies when not.
+
+In the interface option panel you can customize where it should activate.
