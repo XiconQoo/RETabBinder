@@ -1,0 +1,13 @@
+## Interface: 90002
+## Title: |cFF74D06CRE|rTabBinder
+## Notes: Changes TAB binding to only target enemy players when in PvP zones.
+## Version: 1.6.1
+## Author: AcidWeb, Veev-Executus(US)
+## SavedVariablesPerCharacter: RETabBinderSettings
+## X-Website: https://www.curseforge.com/wow/addons/retabbinder
+## X-Curse-Project-ID: 39100
+## X-WoWI-ID: 19089
+
+TaintLess.xml
+Embeds.xml
+RETabBinder.xml
