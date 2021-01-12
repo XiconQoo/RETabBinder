@@ -1,5 +1,5 @@
 local _G = _G
-local _, RE = ...
+local RE = CreateFrame("Frame", "RETabBinder")
 _G.RETabBinder = RE
 
 local print, pairs = _G.print, _G.pairs
